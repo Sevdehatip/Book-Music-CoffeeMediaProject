@@ -1,0 +1,15 @@
+C:\Users\Sevde\Desktop\git\Book-Music-CoffeeMediaProject\BoMuCoMedia.Utility\bin\Debug\BoMuCoMedia.Utility.dll
+C:\Users\Sevde\Desktop\git\Book-Music-CoffeeMediaProject\BoMuCoMedia.Utility\bin\Debug\BoMuCoMedia.Utility.pdb
+C:\Users\Sevde\Desktop\git\Book-Music-CoffeeMediaProject\BoMuCoMedia.Utility\bin\Debug\BoMuCoMedia.Core.dll
+C:\Users\Sevde\Desktop\git\Book-Music-CoffeeMediaProject\BoMuCoMedia.Utility\bin\Debug\ImageResizer.dll
+C:\Users\Sevde\Desktop\git\Book-Music-CoffeeMediaProject\BoMuCoMedia.Utility\bin\Debug\System.Web.Mvc.dll
+C:\Users\Sevde\Desktop\git\Book-Music-CoffeeMediaProject\BoMuCoMedia.Utility\bin\Debug\EntityFramework.dll
+C:\Users\Sevde\Desktop\git\Book-Music-CoffeeMediaProject\BoMuCoMedia.Utility\bin\Debug\BoMuCoMedia.Core.pdb
+C:\Users\Sevde\Desktop\git\Book-Music-CoffeeMediaProject\BoMuCoMedia.Utility\bin\Debug\BoMuCoMedia.Core.dll.config
+C:\Users\Sevde\Desktop\git\Book-Music-CoffeeMediaProject\BoMuCoMedia.Utility\bin\Debug\ImageResizer.xml
+C:\Users\Sevde\Desktop\git\Book-Music-CoffeeMediaProject\BoMuCoMedia.Utility\bin\Debug\EntityFramework.xml
+C:\Users\Sevde\Desktop\git\Book-Music-CoffeeMediaProject\BoMuCoMedia.Utility\obj\Debug\BoMuCoMedia.Utility.csprojAssemblyReference.cache
+C:\Users\Sevde\Desktop\git\Book-Music-CoffeeMediaProject\BoMuCoMedia.Utility\obj\Debug\BoMuCoMedia.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Sevde\Desktop\git\Book-Music-CoffeeMediaProject\BoMuCoMedia.Utility\obj\Debug\BoMuCoMedia.Utility.csproj.CopyComplete
+C:\Users\Sevde\Desktop\git\Book-Music-CoffeeMediaProject\BoMuCoMedia.Utility\obj\Debug\BoMuCoMedia.Utility.dll
+C:\Users\Sevde\Desktop\git\Book-Music-CoffeeMediaProject\BoMuCoMedia.Utility\obj\Debug\BoMuCoMedia.Utility.pdb

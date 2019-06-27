@@ -10,7 +10,11 @@ namespace BoMuCoMedia.Model.Option
     public class Like:CoreEntity
     {
         public Guid AppUserID { get; set; }
-        public Guid PostID { get; set; }
+        public Guid BookPostID { get; set; }
+        public Guid MusicPostID { get; set; }
+        public Guid CoffeePostID { get; set; }
+        public Guid BoMuCoID { get; set; }
+
 
         public virtual AppUser AppUser { get; set; }
         public virtual BookPost BookPost { get; set; }

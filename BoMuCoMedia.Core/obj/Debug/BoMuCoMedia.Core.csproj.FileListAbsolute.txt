@@ -1,0 +1,12 @@
+C:\Users\Sevde\Desktop\git\Book-Music-CoffeeMediaProject\BoMuCoMedia.Core\bin\Debug\BoMuCoMedia.Core.dll.config
+C:\Users\Sevde\Desktop\git\Book-Music-CoffeeMediaProject\BoMuCoMedia.Core\bin\Debug\BoMuCoMedia.Core.dll
+C:\Users\Sevde\Desktop\git\Book-Music-CoffeeMediaProject\BoMuCoMedia.Core\bin\Debug\BoMuCoMedia.Core.pdb
+C:\Users\Sevde\Desktop\git\Book-Music-CoffeeMediaProject\BoMuCoMedia.Core\bin\Debug\EntityFramework.dll
+C:\Users\Sevde\Desktop\git\Book-Music-CoffeeMediaProject\BoMuCoMedia.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sevde\Desktop\git\Book-Music-CoffeeMediaProject\BoMuCoMedia.Core\bin\Debug\EntityFramework.xml
+C:\Users\Sevde\Desktop\git\Book-Music-CoffeeMediaProject\BoMuCoMedia.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sevde\Desktop\git\Book-Music-CoffeeMediaProject\BoMuCoMedia.Core\obj\Debug\BoMuCoMedia.Core.csprojAssemblyReference.cache
+C:\Users\Sevde\Desktop\git\Book-Music-CoffeeMediaProject\BoMuCoMedia.Core\obj\Debug\BoMuCoMedia.Core.csproj.CoreCompileInputs.cache
+C:\Users\Sevde\Desktop\git\Book-Music-CoffeeMediaProject\BoMuCoMedia.Core\obj\Debug\BoMuCoMedia.Core.csproj.CopyComplete
+C:\Users\Sevde\Desktop\git\Book-Music-CoffeeMediaProject\BoMuCoMedia.Core\obj\Debug\BoMuCoMedia.Core.dll
+C:\Users\Sevde\Desktop\git\Book-Music-CoffeeMediaProject\BoMuCoMedia.Core\obj\Debug\BoMuCoMedia.Core.pdb

@@ -35,6 +35,9 @@ namespace BoMuCoMedia.Model.Option
         public virtual List<BookPost> BookPosts { get; set; }
         public virtual List<MusicPost> MusicPosts { get; set; }
         public virtual List<CoffeePost> CoffeePosts { get; set; }
-        public virtual List<BoMuCo> BoMuCo { get; set; }
+        public virtual List<BoMuCo> BoMuCos { get; set; }
+        public virtual List<Comment> Comments { get; set; }
+        public virtual List<Like> Likes { get; set; }
+
     }
 }

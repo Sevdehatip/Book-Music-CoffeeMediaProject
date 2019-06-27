@@ -1,0 +1,17 @@
+C:\Users\Sevde\Desktop\git\Book-Music-CoffeeMediaProject\BoMuCoMedia.Map\bin\Debug\BoMuCoMedia.Map.dll.config
+C:\Users\Sevde\Desktop\git\Book-Music-CoffeeMediaProject\BoMuCoMedia.Map\bin\Debug\BoMuCoMedia.Map.dll
+C:\Users\Sevde\Desktop\git\Book-Music-CoffeeMediaProject\BoMuCoMedia.Map\bin\Debug\BoMuCoMedia.Map.pdb
+C:\Users\Sevde\Desktop\git\Book-Music-CoffeeMediaProject\BoMuCoMedia.Map\bin\Debug\BoMuCoMedia.Core.dll
+C:\Users\Sevde\Desktop\git\Book-Music-CoffeeMediaProject\BoMuCoMedia.Map\bin\Debug\BoMuCoMedia.Model.dll
+C:\Users\Sevde\Desktop\git\Book-Music-CoffeeMediaProject\BoMuCoMedia.Map\bin\Debug\EntityFramework.dll
+C:\Users\Sevde\Desktop\git\Book-Music-CoffeeMediaProject\BoMuCoMedia.Map\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sevde\Desktop\git\Book-Music-CoffeeMediaProject\BoMuCoMedia.Map\bin\Debug\BoMuCoMedia.Core.pdb
+C:\Users\Sevde\Desktop\git\Book-Music-CoffeeMediaProject\BoMuCoMedia.Map\bin\Debug\BoMuCoMedia.Core.dll.config
+C:\Users\Sevde\Desktop\git\Book-Music-CoffeeMediaProject\BoMuCoMedia.Map\bin\Debug\BoMuCoMedia.Model.pdb
+C:\Users\Sevde\Desktop\git\Book-Music-CoffeeMediaProject\BoMuCoMedia.Map\bin\Debug\EntityFramework.xml
+C:\Users\Sevde\Desktop\git\Book-Music-CoffeeMediaProject\BoMuCoMedia.Map\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sevde\Desktop\git\Book-Music-CoffeeMediaProject\BoMuCoMedia.Map\obj\Debug\BoMuCoMedia.Map.csprojAssemblyReference.cache
+C:\Users\Sevde\Desktop\git\Book-Music-CoffeeMediaProject\BoMuCoMedia.Map\obj\Debug\BoMuCoMedia.Map.csproj.CoreCompileInputs.cache
+C:\Users\Sevde\Desktop\git\Book-Music-CoffeeMediaProject\BoMuCoMedia.Map\obj\Debug\BoMuCoMedia.Map.csproj.CopyComplete
+C:\Users\Sevde\Desktop\git\Book-Music-CoffeeMediaProject\BoMuCoMedia.Map\obj\Debug\BoMuCoMedia.Map.dll
+C:\Users\Sevde\Desktop\git\Book-Music-CoffeeMediaProject\BoMuCoMedia.Map\obj\Debug\BoMuCoMedia.Map.pdb
